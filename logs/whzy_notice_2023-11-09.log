@@ -1,0 +1,5 @@
+Time: 2023-11-09 08:12:23
+Exception: list indices must be integers or slices, not str
+Line: 103Time: 2023-11-09 19:35:50
+Exception: list indices must be integers or slices, not str
+Line: 103

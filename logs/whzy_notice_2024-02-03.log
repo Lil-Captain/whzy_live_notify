@@ -1,0 +1,29 @@
+Time: 2024-02-03 00:11:50
+Exception: list indices must be integers or slices, not str
+Line: 106Time: 2024-02-03 05:02:39
+[status_code]: 502
+[text]:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+ Sorry for the inconvenience.<br/>
+Please report this message and include the following information to us.<br/>
+Thank you very much!</p>
+<table>
+<tr>
+<td>URL:</td>
+<td>https://api.live.bilibili.com/room/v1/Room/get_status_info_by_uids</td>
+</tr>
+<tr>
+<td>Server:</td>
+<td>cn-sdqd-cu-w-v6-03</td>
+</tr>
+<tr>
+<td>Date:</td>
+<td>2024/02/03 05:02:39</td>
+</tr>
+</table>
+<hr/>Powered by Tengine<hr><center>tengine</center>
+</body>
+</html>
